@@ -1,0 +1,76 @@
+.nav-link:hover {
+  height: auto;
+  width: auto;
+  background-color:  #f26522 !important;
+}
+.d-flex {
+  align-items: center;
+  height: 150px;
+  gap: 20px;
+}
+.d-flex i {
+  height: 100px !important;
+  width: 100px;
+}
+.text {
+  font-size: 10px;
+  opacity: 0.6;
+}
+.city {
+  display: flex;
+}
+.nav-2 {
+  gap: 100px;
+  line-height: 3px !important;
+}
+
+.img-bannar {
+  box-sizing: border-box;
+  background-size: cover !important;
+}
+
+.img-in {
+  height: 30px;
+}
+.carousel-indicators [data-bs-target] {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+}
+
+.castom-class-promotion{
+  margin-top: 100px;
+}
+
+.card{
+  border-left: 1px rgb(210, 210, 210) solid !important;
+}
+.castom-container{
+  margin-top: 70px !important;
+
+  justify-content: space-around;
+  
+}
+.card-group{
+  margin-top: 0px !important;
+}
+.castom-head{
+  height: 100px !important;
+}
+.castom-bg{
+  background-color: rgb(247, 247, 247);
+}
+
+.right-item{
+  width: 100%;
+  top:70%;
+  left: 0;
+  align-items: end;
+  justify-content: end !important;
+height: 100px;
+  
+}
+.container-fluid {
+  background-color: rgb(18, 25, 33);
+  color: #36516f;
+}
