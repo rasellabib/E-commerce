@@ -6,6 +6,24 @@
 .right-item {
   height:auto !important;
 }
+.icon{
+  height: 40px;
+  width: auto;
+}
+.class-2{
+  position: relative  ;
+  height: 70px;
+  width: 70px;
+  align-items:center !important;
+
+}
+
+.class{
+  margin:11px;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
 .d-flex {
   align-items: center;
   height: 150px;
