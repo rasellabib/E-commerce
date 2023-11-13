@@ -3,6 +3,9 @@
   width: auto;
   background-color:  #f26522 !important;
 }
+.right-item {
+  height:auto !important;
+}
 .d-flex {
   align-items: center;
   height: 150px;
