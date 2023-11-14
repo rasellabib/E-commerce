@@ -17,7 +17,6 @@
   align-items:center !important;
 
 }
-
 .class{
   margin:11px;
   position: absolute;
@@ -89,7 +88,6 @@
   align-items: end;
   justify-content: end !important;
 height: 100px;
-  
 }
 .container-fluid {
   background-color: rgb(18, 25, 33);
